@@ -1,9 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : Jun 27, 2022, 10:11:14 PM
-    Author     : Hudya
---%>
-
 <%@page import="Controller.ProductController"%>
 <%@page import="java.sql.ResultSet"%>
 <%--<%@ taglib prefix="c" uri="http://java.sun/com/jstl/core" %>--%>
