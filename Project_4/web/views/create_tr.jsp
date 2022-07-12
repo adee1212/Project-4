@@ -1,9 +1,3 @@
-<%-- 
-    Document   : create
-    Created on : Jun 29, 2022, 10:59:12 PM
-    Author     : Hudya
---%>
-
 <%@page import="Controller.ProductController"%>
 <%@page import="java.sql.ResultSet"%>
 <%--<%@ taglib prefix="c" uri="http://java.sun/com/jstl/core" %>--%>
@@ -67,18 +61,6 @@
                 </div>
             </div>
         </main>
-
-
-        <jsp:include page='layouts/footer.jsp'></jsp:include>
         <jsp:include page='layouts/scripts.jsp'></jsp:include>
-        <script src="https://unpkg.com/js-datepicker"></script> 
-        <script>
-            const picker = datepicker('#date', {
-                formatter: (input, date, instance) => {
-                    input.value = date.toLocaleDateString(); // => '1/1/2099'
-                }
-            })
-        </script>
-
     </body>
 </html>
