@@ -1,4 +1,4 @@
-<%@page import="Controller.ProductController"%>
+<%@page import="Controller.TransactionController"%>
 <%@page import="java.sql.ResultSet"%>
 <%--<%@ taglib prefix="c" uri="http://java.sun/com/jstl/core" %>--%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
@@ -14,7 +14,7 @@
         <jsp:include page='layouts/navbar.jsp'></jsp:include>
 
         <%
-            ProductController pc = new ProductController();
+            TransactionController pc = new TransactionController();
 
             String search = "";
             ResultSet rs;
@@ -33,8 +33,6 @@
         <!-- Begin page content -->
         <main class="flex-shrink-0">
             <div class="container">
-                <h1 class="mt-5">Sticky footer with fixed navbar</h1>
-                <p class="lead">Pin a footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS. A fixed navbar has been added with <code class="small">padding-top: 60px;</code> on the <code class="small">main &gt; .container</code>.</p>
                 <div class="row pt-5">
                     <div class="col-6">
                         <form action="tr" method="GET">
@@ -86,9 +84,6 @@
                 </div>
             </div>
         </main>
-
-
-        <jsp:include page='layouts/footer.jsp'></jsp:include>
         <jsp:include page='layouts/scripts.jsp'></jsp:include>
     </body>
 </html>
