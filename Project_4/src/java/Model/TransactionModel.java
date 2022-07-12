@@ -1,0 +1,39 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Model;
+
+/**
+ *
+ * @author Hudya
+ */
+public class TransactionModel {
+
+    private String type;
+    private String total_items;
+
+
+    
+
+   
+
+    public void setType(String type) {
+        this.type = type;
+    }
+
+    public String getType() {
+        return type;
+    }
+
+    public void setTotal_items(String total_items) {
+        this.total_items = total_items;
+    }
+
+    public String getTotal_items() {
+        return total_items;
+    } 
+
+    
+}
