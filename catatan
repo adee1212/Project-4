@@ -1,0 +1,42 @@
+file 
+JSP : 
+create product
+crete transaction
+edit product
+login
+product
+transaction
+
+Config :
+DBConnection
+
+Controller :
+admin controller 
+base controller
+categgories controller
+product controller
+transaction controller
+
+Helper : 
+string helper
+
+Model :
+product model
+transaction model
+
+Query : 
+admin Query
+categories Query
+product Query
+ttransaction Query
+
+Servlet :
+create product servlet
+crete transaction servlet
+delete product servlet
+delete transaction servlet
+edit product servlet
+login servlet
+logout servlet
+product servlet
+transaction servlet
