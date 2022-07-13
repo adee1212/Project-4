@@ -1,10 +1,10 @@
 file 
 JSP : 
-create product
+create product  : Rifaldlee
 crete transaction
-edit product
+edit product : Rifaldlee
 login
-product
+product : Rifaldlee
 transaction
 
 Config :
@@ -14,29 +14,29 @@ Controller :
 admin controller 
 base controller
 categgories controller
-product controller
+product controller : Rifaldlee
 transaction controller
 
 Helper : 
 string helper
 
 Model :
-product model
+product model : Rifaldlee
 transaction model
 
 Query : 
 admin Query
 categories Query
-product Query
-ttransaction Query
+product Query : Rifaldlee
+transaction Query
 
 Servlet :
-create product servlet
+create product servlet : Rifaldlee
 crete transaction servlet
-delete product servlet
+delete product servlet : Rifaldlee
 delete transaction servlet
-edit product servlet
+edit product servlet : Rifaldlee
 login servlet
 logout servlet
-product servlet
+product servlet : Rifaldlee
 transaction servlet
