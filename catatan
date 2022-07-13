@@ -3,7 +3,7 @@ JSP :
 create product  : Rifaldlee
 crete transaction
 edit product : Rifaldlee
-login
+login : Sufiyan Tsauri
 product : Rifaldlee
 transaction
 
@@ -11,8 +11,8 @@ Config :
 DBConnection
 
 Controller :
-admin controller 
-base controller
+admin controller : Sufiyan Tsauri
+base controller : Sufiyan Tsauri
 categgories controller
 product controller : Rifaldlee
 transaction controller
@@ -25,7 +25,7 @@ product model : Rifaldlee
 transaction model
 
 Query : 
-admin Query
+admin Query : Sufiyan Tsauri
 categories Query
 product Query : Rifaldlee
 transaction Query
@@ -36,7 +36,7 @@ crete transaction servlet
 delete product servlet : Rifaldlee
 delete transaction servlet
 edit product servlet : Rifaldlee
-login servlet
-logout servlet
+login servlet : Sufiyan Tsauri
+logout servlet : Sufiyan Tsauri
 product servlet : Rifaldlee
 transaction servlet
