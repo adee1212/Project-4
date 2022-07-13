@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Controller;
 
 import Helper.StringHelper;
@@ -13,10 +8,6 @@ import java.text.ParseException;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- *
- * @author Hudya
- */
 public class TransactionController extends BaseController {
     
     TransactionQuery query = new TransactionQuery();
@@ -43,5 +34,21 @@ public class TransactionController extends BaseController {
         map.put(1, StringHelper.parseLikeQuery(name));
         
         return this.getWithParameter(map, sql);
+    }
+    public ResultSet getById(String id) {
+        String sql = this.query.getById;
+        
+        Map<Integer, Object> map = new HashMap<>();
+        map.put(1, id);
+        
+        return this.getWithParameter(map, sql);
+    }
+    
+    public boolean delete(String id) throws ParseException {
+        Map<Integer, Object> map = new HashMap<>();
+        map.put(1, id);
+        
+        String sql = this.query.delete;
+        return this.preparedStatement(map, sql);
     }
 }

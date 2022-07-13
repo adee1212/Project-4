@@ -14,11 +14,6 @@ public class TransactionModel {
     private String type;
     private String total_items;
 
-
-    
-
-   
-
     public void setType(String type) {
         this.type = type;
     }
