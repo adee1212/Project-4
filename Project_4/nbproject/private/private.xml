@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Controller/ProductController.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Model/TransactionModel.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Servlet/EditProductServlet.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Query/AdminQuery.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Helper/StringHelper.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Controller/TransactionController.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Servlet/DeleteTransactionServlet.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Servlet/DeleteProductServlet.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Servlet/LoginServlet.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Controller/BaseController.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Model/ProductModel.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Query/TransactionQuery.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Query/ProductQuery.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/web/views/create_transaction.jsp</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Servlet/ProductServlet.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/web/views/create_product.jsp</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Controller/CategoriesController.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/web/views/transaction.jsp</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/web/views/login.jsp</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Servlet/CreateProductServlet.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Servlet/CreateTransactionServlet.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Query/CategoriesQuery.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Servlet/LogoutServlet.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Servlet/TransactionServlet.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/web/views/product.jsp</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/web/public/assets/backend/main.css</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/web/views/edit_product.jsp</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Config/DBConnection.java</file>
+            <file>file:/C:/Users/RIFALDLEE/OneDrive/Dokumen/NetBeansProjects/Project_4/src/java/Controller/AdminController.java</file>
+        </group>
+    </open-files>
+</project-private>
